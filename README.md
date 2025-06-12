@@ -10,7 +10,7 @@ This project is about recognizing two special Azerbaijani letters: **ü** and **
 The coolest part is that the **dataset is fully handmade!**
 
 Me and my mom wrote each letter on paper, and I took pictures of them.  
-So this project is not just technical — it’s also personal to me. ❤️
+So this project is not just technical — it’s also personal. ❤️
 
 ---
 
