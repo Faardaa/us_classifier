@@ -43,3 +43,22 @@ So this project is not just technical — it’s also personal to me. ❤️
 
 The dataset is **handwritten by me and my mom** ❤️  
 It is organized like this:
+  📂 dataset
+  ├── 📂 ü # Handwritten images of the letter ü
+  └── 📂 ş # Handwritten images of the letter ş
+
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/Faardaa/us_classifier.git
+   
+2. Install the required libraries.
+   ```bash
+   pip install -r requirements.txt
+   
+3.Run the notebook.
+  üş_classification.ipynb
