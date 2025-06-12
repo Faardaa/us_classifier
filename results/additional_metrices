@@ -1,0 +1,16 @@
+==================================================
+ADDITIONAL METRICS
+==================================================
+Macro Precision: 0.9390
+Macro Recall:    0.9372
+Macro F1-Score:  0.9374
+
+Micro Precision: 0.9375
+Micro Recall:    0.9375
+Micro F1-Score:  0.9375
+
+==================================================
+PREDICTIONS SUMMARY
+==================================================
+ü               - Correct: 151/166 (Accuracy: 0.9096)
+ş               - Correct: 164/170 (Accuracy: 0.9647)
