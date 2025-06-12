@@ -61,4 +61,5 @@ It is organized like this:
    pip install -r requirements.txt
    
 3.Run the notebook.
+  ```bash
   üş_classification.ipynb
